@@ -16,15 +16,6 @@ The thread through all of it: the hard part of AI in financial services isn't th
 
 ## Featured work
 
-### [Runzo Agentic Platform](https://github.com/eatbids/runzo-agentic-platform-showcase)
-*Co-founder, Eatbids LLC (dba Runzo) · [Start year] – present*
-
-About ten specialized agents that make a three-sided restaurant marketplace agentic, across instant ordering, direct catering and catering bidding. Every agent is gated on evals before release.
-
-**My role:** designed and built the platform with Claude Code; defined the eval strategy and phased build plan; made the architecture calls on agent boundaries, branding vs. management, and build vs. buy.
-
-`Claude Code` `Multi-agent systems` `Evals` `GCP`
-
 ### [O-Live: AI market intelligence for olive oil buyers](https://github.com/ericarobeen/o-live)
 *UC Berkeley MIDS capstone, 2025 · Team of five*
 
