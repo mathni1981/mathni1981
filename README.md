@@ -8,7 +8,7 @@
 
 ## About
 
-I'm a Vice President of Product Management at a Fortune 500 insurer, where I own enterprise automation and GenAI document processing and work on how the company adopts AI and agentic safely at scale. Before that, I spent fourteen years advising insurers and financial service organizations on platform selection and transformation.
+I'm a product leader at a Fortune 500 insurer, where I own enterprise automation and GenAI document processing and work on how the company adopts AI and agentic safely at scale. Before that, I spent fourteen years advising insurers and financial service organizations on platform selection and transformation.
 
 The thread through all of it: the hard part of AI in financial services isn't the model. It's the data, the governance and the path to production.
 
