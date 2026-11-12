@@ -34,6 +34,13 @@ Fake news detectors catch AI-written fakes far more reliably than human-written 
 
 `ModernBERT` `RoBERTa` `DeBERTa` `Hugging Face` `SHAP` `Python`
 
+### [RAG eval harness for financial documents](https://github.com/mathni1981/rag-eval-harness)
+*Independent project, 2026*
+
+Question answering over six insurer and asset-manager 10-K filings, evaluated rigorously: an LLM judge validated against blind hand labels, six retrieval experiments with bootstrap confidence intervals, and a pre-registered test on held-out questions. Main finding: retrieval, not generation, was the bottleneck.
+
+`Claude` `RAG` `LLM evaluation` `Python`
+
 ## Experience
 
 | Role | Years |
