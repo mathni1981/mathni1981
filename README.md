@@ -2,7 +2,7 @@
 
 **Enterprise AI product leader** helping regulated enterprises take AI from pilot to governed production. Twenty years in insurance, retirement and wealth management, now focused on agentic AI.
 
-[Portfolio](https://rawcdn.githack.com/mathni1981/mathni1981/refs/heads/main/Mahesh%20Nidhruva%20%E2%80%94%20Portfolio%20%E2%80%93%20Portfolio.html) · [LinkedIn](https://www.linkedin.com/in/mahesh-nidhruva) · New Jersey (NYC metro)
+[Portfolio](https://mathni1981.github.io) · [LinkedIn](https://www.linkedin.com/in/mahesh-nidhruva) · New Jersey (NYC metro)
 
 ---
 
